@@ -1,10 +1,10 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Hi! How are ya?
+author: Bonnie-123
+email: lani09br@rams.colostate.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am learning to write a blog on GitHub and am very new.
+  These step by step activities are extremely helpful.
 
 # social links
 twitter_username: your-twitter-handle
